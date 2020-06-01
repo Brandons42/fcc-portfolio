@@ -83,12 +83,12 @@ p,
 }
 
 #documentation {
-	background-image: url('./screenshots/documentation.png');
+	background-image: url('/documentation.f6dc1a17.png');
 	background-position: left;
 }
 
 #landing {
-	background-image: url('./screenshots/landing.png');
+	background-image: url('/landing.7409ed9f.png');
 }
 
 #more {
@@ -143,11 +143,11 @@ p,
 }
 
 #survey {
-	background-image: url('./screenshots/survey.png');
+	background-image: url('/survey.7e50b4b9.png');
 }
 
 #tribute {
-	background-image: url('./screenshots/tribute.png');
+	background-image: url('/tribute.51f7ed9b.png');
 }
 
 #welcome-section {
@@ -165,3 +165,6 @@ p,
 		width: 100vw;
 	}
 }
+
+
+/*# sourceMappingURL=/fcc-portfolio.9ad09f98.css.map */
